@@ -1,2 +1,0 @@
-newfolder=C:\Program Files (x86)\Steam\steamapps\common\AoE2DE
-oldfolder=C:\Users\battl\Desktop\Age-of-Empires-2-DE-SteamRIP.com\Age of Empires II Definitive Edition
